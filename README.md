@@ -1,8 +1,23 @@
 # Spotify ETL project
-Integrating with Spotify API and extracting Data
-Deploying code on AWS Lambda for Data Extraction
-Adding trigger to run the extraction automatically
-Writing transformation function
-Building automated trigger on transformation function
-Store files on S3 properly
-Building Analytics Tables on data files using Glue and Athena
+## Description
+In this project, I have extract the data from spotify API, deploying the code on AWS Lambda for Data transformation and storing the data on S3. Building Analytics Tables on data files using Glue and Athena.
+
+## Services Used:
+**S3**
+
+**AWS Lambda**
+
+**Cloud watch**
+
+**Glue crawler**
+
+**Amazon Athena**
+
+
+## Packages installed
+
+pip install pandas
+
+pip install numpy
+
+pip install spotipy
