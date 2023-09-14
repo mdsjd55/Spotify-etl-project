@@ -3,21 +3,21 @@
 In this project, I have extract the data from spotify API, deploying the code on AWS Lambda for Data transformation and storing the data on S3. Building Analytics Tables on data files using Glue and Athena.
 
 ### Services Used:
-**S3**
+1. **S3**
 
-**AWS Lambda**
+2. **AWS Lambda**
 
-**Cloud watch**
+3. **Cloud watch**
 
-**Glue crawler**
+4. **Glue crawler**
 
-**Amazon Athena**
+5. **Amazon Athena**
 
 
 ### Packages installed
 
-pip install pandas
+1. pip install pandas
 
-pip install numpy
+2. pip install numpy
 
-pip install spotipy
+3. pip install spotipy
